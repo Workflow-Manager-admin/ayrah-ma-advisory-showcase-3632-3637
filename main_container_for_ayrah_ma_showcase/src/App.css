@@ -869,11 +869,11 @@ button {
 }
 
 .testimonial-prev {
-  left: 0;
+  left: -20px;
 }
 
 .testimonial-next {
-  right: 0;
+  right: -20px;
 }
 
 .testimonial-dots {
