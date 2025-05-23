@@ -1117,13 +1117,14 @@ button {
 .footer-links {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
 }
 
 .footer-links a {
   color: rgba(255, 255, 255, 0.8);
   font-size: 14px;
   transition: color var(--transition-normal), padding-left var(--transition-normal);
+  padding: 2px 0;
 }
 
 .footer-links a:hover {
