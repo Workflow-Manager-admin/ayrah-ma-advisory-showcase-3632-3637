@@ -690,9 +690,9 @@ button {
   position: absolute;
   height: 2px;
   background: var(--gold);
-  width: calc(100% - 80px);
+  width: calc(100% - 64px);
   top: 32px;
-  left: calc(50% + 40px);
+  left: calc(50% + 32px);
   z-index: 1;
 }
 
