@@ -202,6 +202,7 @@ button {
   background-color: #c4a12f;
   color: var(--navy);
   box-shadow: var(--shadow-md);
+  transform: translateY(-1px) scale(1.02);
 }
 
 /* Grid System */
