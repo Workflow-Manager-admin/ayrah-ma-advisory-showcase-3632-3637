@@ -556,13 +556,21 @@ button {
 }
 
 .key-values {
-  margin-top: 24px;
+  margin-top: 32px;
+}
+
+.key-value-point {
+  margin-bottom: 16px;
 }
 
 .key-value-point h4 {
   color: var(--navy);
   font-size: 18px;
   margin-bottom: 8px;
+}
+
+.key-value-point p {
+  margin-bottom: 0;
 }
 
 /* Services Section Styles */
