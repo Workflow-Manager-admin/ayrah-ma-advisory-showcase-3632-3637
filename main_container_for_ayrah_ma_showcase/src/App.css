@@ -907,6 +907,11 @@ button {
   margin-top: 32px;
 }
 
+.contact-form-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;
