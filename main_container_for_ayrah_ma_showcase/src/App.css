@@ -800,7 +800,7 @@ button {
 }
 
 .testimonial-slide {
-  padding: 48px 32px;
+  padding: 48px 32px 32px;
   background: var(--white);
   border-radius: 8px;
   box-shadow: var(--shadow-md);
@@ -815,6 +815,7 @@ button {
   top: 24px;
   left: 24px;
   line-height: 0;
+  z-index: 1;
 }
 
 .testimonial-text {
