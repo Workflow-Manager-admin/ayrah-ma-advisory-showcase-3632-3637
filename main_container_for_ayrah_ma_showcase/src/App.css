@@ -382,6 +382,10 @@ button {
   align-items: center;
 }
 
+.nav-desktop .btn {
+  margin-left: 24px;
+}
+
 .nav-links {
   display: flex;
   gap: 32px;
