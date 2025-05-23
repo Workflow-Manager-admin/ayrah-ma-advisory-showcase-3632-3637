@@ -618,6 +618,7 @@ button {
   color: var(--text-primary);
   margin-bottom: 16px;
   flex-grow: 1;
+  min-height: 80px;
 }
 
 .service-link {
