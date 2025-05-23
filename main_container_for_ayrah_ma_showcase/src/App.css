@@ -505,6 +505,7 @@ button {
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 24px;
+  animation-duration: 0.5s;
 }
 
 .hero-subtitle {
@@ -513,6 +514,7 @@ button {
   margin-bottom: 32px;
   opacity: 0.9;
   max-width: 540px;
+  animation-duration: 0.7s;
 }
 
 .cta-container {
